@@ -1,0 +1,26 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ApplikasiGithubUser2</string>
+    <string name="username">username</string>
+    <string name="realname">realname</string>
+    <string name="followers" translatable="false">Followers</string>
+    <string name="following" translatable="false">Following</string>
+    <string name="repository" translatable="false">repository</string>
+    <string name="company" translatable="false">company</string>
+    <string name="location" translatable="false">location</string>
+
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="change_language">Change Language</string>
+    <string name="followers_text">Followers</string>
+    <string name="following_text">Following</string>
+    <string name="repository_text">Repository</string>
+    <string name="query">search</string>
+    <string name="company_text">Company:</string>
+    <string name="location_text">Location:</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="favorite_user">Favorited</string>
+    <string name="unfavorite_user">UnFavorite</string>
+    <string name="SetAlarm" translatable="false">Set Alarm 09.00 AM.</string>
+    <string name="set" translatable="false">yes</string>
+</resources>

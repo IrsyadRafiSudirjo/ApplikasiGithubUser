@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ApplikasiGithubUser2</string>
+    <string name="username">username</string>
+    <string name="realname">Nama Pengguna</string>
+    <string name="followers_text">Pengikut</string>
+
+    <string name="following_text">Mengikuti</string>
+    <string name="repository_text">Repositori</string>
+
+
+    <string name="query">mencari</string>
+    <string name="company_text">Perusahaan:</string>
+    <string name="location_text">Lokasi:</string>
+
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="change_language">Mengubah bahsa</string>
+    <string name="favorite">Favorit</string>
+
+    <string name="favorite_user">Favoritkan</string>
+    <string name="unfavorite_user">Tidak Favorit</string>
+
+
+</resources>
